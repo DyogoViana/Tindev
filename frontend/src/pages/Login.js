@@ -2,7 +2,7 @@
 
 
 
-import React from "react";
+import React, { useState } from "react";
 
 import "./Login.css"; // Não precisa colocar o nome antes, já que só quero o arquivo. 
 import logoTindev from "../assets/logoTindev.svg";
